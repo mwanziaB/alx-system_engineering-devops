@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp :school hello
+install -m 751 -d my_dir
